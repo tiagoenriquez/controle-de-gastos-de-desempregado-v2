@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Controle de Gastos
+Exec=/home/tiago/aplicacoes/php/controle-de-gastos-de-desempregado/exec/controle_de_gastos_laucher.sh
+Icon=/home/tiago/aplicacoes/php/controle-de-gastos-de-desempregado/public/img/favicon.png
+Type=Application
+Categories=Finance

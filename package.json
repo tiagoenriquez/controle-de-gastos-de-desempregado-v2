@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "start": "electron window.js",
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "name": "controle-de-gastos",
+    "productName": "Controle de Gastos",
+    "devDependencies": {
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0.0",
+        "vite": "^5.0.0"
+    },
+    "dependencies": {
+        "electron": "^32.1.2"
+    }
+}
